@@ -1,0 +1,12 @@
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ export INPUT_DATA_FILE1=payload1.json
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ export INPUT_DATA_FILE2=payload2.json
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ curl -X POST -H "Content-Type: application/json" $AUTOML_PROXY/v1 -d "@${INPUT_DATA_FILE1}"
+{"predictions":[{"ids":["5419751198540431360"],"displayNames":["engine_compartment"],"confidences":[0.985487759]}],"deployedModelId":"4271461936421404672","model":"projects/1030115194620/locations/us-central1/models/2143634257791156224","modelDisplayName":"damaged_car_parts_vertex","modelVersionId":"1"}student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ curl -X POST -H "Content-Type: application/json" $AUTOML_PROXY/v1 -d "@${INPUT_DATA_FILE2}"
+{"predictions":[{"confidences":[0.962432086],"displayNames":["hood"],"ids":["3113908189326737408"]}],"deployedModelId":"4271461936421404672","model":"projects/1030115194620/locations/us-central1/models/2143634257791156224","modelDisplayName":"damaged_car_parts_vertex","modelVersionId":"1"}student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 

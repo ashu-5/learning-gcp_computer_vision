@@ -1,0 +1,20 @@
+gcloud functions deploy ocr-extract \
+--runtime python39 \
+--trigger-bucket image_bucket_qwiklabs-gcp-03-42ec4dd1b239 \
+--entry-point process_image \
+--set-env-vars "^:^GCP_PROJECT=qwiklabs-gcp-03-42ec4dd1b239:TRANSLATE_TOPIC=test_translation1:RESULT_TOPIC=result_translation1:TO_LANG=es,en,fr,ja"
+
+
+gcloud functions deploy ocr-translate \
+--runtime python39 \
+--trigger-topic test_translation1 \
+--entry-point translate_text \
+--set-env-vars "GCP_PROJECT=qwiklabs-gcp-03-42ec4dd1b239,RESULT_TOPIC=result_translation1"
+
+gcloud functions deploy ocr-save \
+--runtime python39 \
+--trigger-topic result_translation1 \
+--entry-point save_result \
+--set-env-vars "GCP_PROJECT=qwiklabs-gcp-03-42ec4dd1b239,RESULT_BUCKET=result_bucket_qwiklabs-gcp-03-42ec4dd1b239"
+
+gsutil cp D:\Coursera\Computer Vision Fundamentals by Google\Week 1\Lab-2\spettacolore_menu.png gs://image_bucket_qwiklabs-gcp-03-42ec4dd1b239

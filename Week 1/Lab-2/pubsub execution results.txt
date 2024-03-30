@@ -1,0 +1,600 @@
+gcloud functions logs read --limit 100
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: w3sosv5npcxw
+TIME_UTC: 2024-02-14 06:58:59.595
+LOG: Function execution took 367 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: w3sosv5npcxw
+TIME_UTC: 2024-02-14 06:58:59.593
+LOG: File saved.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: w3sosv5npcxw
+TIME_UTC: 2024-02-14 06:58:59.490
+LOG: Saving result to spettacolore_menu.png_fr.txt in bucket result_bucket_qwiklabs-gcp-03-42ec4dd1b239.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: w3sosv5npcxw
+TIME_UTC: 2024-02-14 06:58:59.306
+LOG: Received request to save file spettacolore_menu.png.
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: w3sosv5npcxw
+TIME_UTC: 2024-02-14 06:58:59.228
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fbk3bb33n
+TIME_UTC: 2024-02-14 06:58:58.045
+LOG: Function execution took 153 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fbk3bb33n
+TIME_UTC: 2024-02-14 06:58:58.043
+LOG: File saved.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fbk3bb33n
+TIME_UTC: 2024-02-14 06:58:57.928
+LOG: Saving result to spettacolore_menu.png_es.txt in bucket result_bucket_qwiklabs-gcp-03-42ec4dd1b239.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fbk3bb33n
+TIME_UTC: 2024-02-14 06:58:57.894
+LOG: Received request to save file spettacolore_menu.png.
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fbk3bb33n
+TIME_UTC: 2024-02-14 06:58:57.891
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fe0iys5mt
+TIME_UTC: 2024-02-14 06:58:55.811
+LOG: Function execution took 161 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fe0iys5mt
+TIME_UTC: 2024-02-14 06:58:55.810
+LOG: File saved.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fe0iys5mt
+TIME_UTC: 2024-02-14 06:58:55.689
+LOG: Saving result to spettacolore_menu.png_ja.txt in bucket result_bucket_qwiklabs-gcp-03-42ec4dd1b239.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fe0iys5mt
+TIME_UTC: 2024-02-14 06:58:55.653
+LOG: Received request to save file spettacolore_menu.png.
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fe0iys5mt
+TIME_UTC: 2024-02-14 06:58:55.649
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: 02jplx9cxm5i
+TIME_UTC: 2024-02-14 06:58:54.221
+LOG: Function execution took 453 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-translate
+EXECUTION_ID: 02jplx9cxm5i
+TIME_UTC: 2024-02-14 06:58:53.857
+LOG: Translating text into es.
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: 02jplx9cxm5i
+TIME_UTC: 2024-02-14 06:58:53.768
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: dwb7kk3lltp0
+TIME_UTC: 2024-02-14 06:58:52.174
+LOG: Function execution took 932 ms, finished with status: 'ok'
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fjccdxujb
+TIME_UTC: 2024-02-14 06:58:51.953
+LOG: Function execution took 367 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fjccdxujb
+TIME_UTC: 2024-02-14 06:58:51.951
+LOG: File saved.
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fjccdxujb
+TIME_UTC: 2024-02-14 06:58:51.823
+LOG: Saving result to spettacolore_menu.png_en.txt in bucket result_bucket_qwiklabs-gcp-03-42ec4dd1b239.
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: dyhjb3qq0g3d
+TIME_UTC: 2024-02-14 06:58:51.701
+LOG: Function execution took 466 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-save
+EXECUTION_ID: 7g3fjccdxujb
+TIME_UTC: 2024-02-14 06:58:51.691
+LOG: Received request to save file spettacolore_menu.png.
+
+LEVEL: D
+NAME: ocr-save
+EXECUTION_ID: 7g3fjccdxujb
+TIME_UTC: 2024-02-14 06:58:51.586
+LOG: Function execution started
+
+LEVEL: 
+NAME: ocr-translate
+EXECUTION_ID: dwb7kk3lltp0
+TIME_UTC: 2024-02-14 06:58:51.497
+LOG: Translating text into ja.
+
+LEVEL: 
+NAME: ocr-translate
+EXECUTION_ID: dyhjb3qq0g3d
+TIME_UTC: 2024-02-14 06:58:51.311
+LOG: Translating text into fr.
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: dwb7kk3lltp0
+TIME_UTC: 2024-02-14 06:58:51.241
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-translate
+EXECUTION_ID: dyhjb3qq0g3d
+TIME_UTC: 2024-02-14 06:58:51.235
+LOG: Function execution started
+
+LEVEL: D
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.388
+LOG: Function execution took 785 ms, finished with status: 'ok'
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.386
+LOG: File spettacolore_menu.png processed.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: fresh basil leaves, parmigiano reggiano.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: juicy tomatoes, garlic, extra virgin olive oil,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: POMODORO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: burro and fresh herbs
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: mushrooms with parmigiano reggiano,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: IIFUNGI
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Carnaroli rice cooked in a rich broth.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: a velvety and luscious dish made with Arborio or
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: RISOTTO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: melted Gorgonzola (Blue Cheese) Cream and black olives.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta tossed in a sauce made using
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: PASTA ALLA CENERE
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: and a sprinkle of fresh basil leaves.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: using tomatoes, garlic, olives, capers, red chilli pepper flakes,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta tossed in a slightly spicy sauce made
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: II PUTTANESCA
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: garlic cloves, extra virgin olive oil, chilli flakes and parsley
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta tossed in a sauce made from sauteed
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: AGLIO E OLIO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Contains Egg
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Recommended Hot
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Basil Infused Parmesan
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Parmigiano Reggiano
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Black Olives
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Kalamata Olives
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Sundried tomato
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Mushrooms
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Broccoli
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: ADD ONS:
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: parmigiano reggiano, butter, and freshly ground black pepper.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta in a delicious sauce made using lemon,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: II LIMONE
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: butter and parmigiano reggiano.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta tossed in a sauce made using
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: BURRO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: garlic, salt, and extra virgin olive oil.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: fresh basil leaves, pistachios, parmigiano reggiano,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta in a traditional Italian sauce made with
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: PESTO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: and fresh basil leaves.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: made with ripe, juicy tomatoes, garlic, extra virgin olive oil
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta in a vibrant and aromatic tomato sauce
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: POMODORO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: and freshly ground black pepper.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: made with fried mushrooms, eggs, parmigiano reggiano
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta in a rich and creamy sauce
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: 11 CARBONARA
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: parmigiano reggiano and freshly ground black pepper.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: hand-made pasta in a velvety sauce made from
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: 11 CACIO E PEPE
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: • Egg - Fettuccine / Spaghetti
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.268
+LOG: Detected language en for text Eggless - Orecchiette
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: fresh basil leaves, parmigiano reggiano from image (1652 chars).
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: juicy tomatoes, garlic, extra virgin olive oil,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: POMODORO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: burro and fresh herbs
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: mushrooms with parmigiano reggiano,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: IIFUNGI
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: Carnaroli rice cooked in a rich broth.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: a velvety and luscious dish made with Arborio or
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: RISOTTO
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: melted Gorgonzola (Blue Cheese) Cream and black olives.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: hand-made pasta tossed in a sauce made using
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: PASTA ALLA CENERE
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: and a sprinkle of fresh basil leaves.
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: using tomatoes, garlic, olives, capers, red chilli pepper flakes,
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: hand-made pasta tossed in a slightly spicy sauce made
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: II PUTTANESCA
+
+LEVEL: 
+NAME: ocr-extract
+EXECUTION_ID: awfwbiwmk123
+TIME_UTC: 2024-02-14 06:58:46.174
+LOG: garlic cloves, extra virgin olive oil, chilli flakes and parsley

@@ -1,0 +1,4 @@
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ export AUTOML_PROXY=https://automl-proxy-pohhssgt7q-uc.a.run.app
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ INPUT_DATA_FILE=payload.json
+student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ curl -X POST -H "Content-Type: application/json" $AUTOML_PROXY/v1 -d "@${INPUT_DATA_FILE}"
+{"predictions":[{"confidences":[0.951557755],"ids":["1960986684719890432"],"displayNames":["bumper"]}],"deployedModelId":"4271461936421404672","model":"projects/1030115194620/locations/us-central1/models/2143634257791156224","modelDisplayName":"damaged_car_parts_vertex","modelVersionId":"1"}student_01_a4366a69b5e3@cloudshell:~ (qwiklabs-gcp-01-4b8d6b1c4074)$ 

@@ -1,0 +1,21 @@
+echo '
+{
+    "requests": [
+        {
+          "image": {
+            "source": {
+                "gcsImageUri": "gs://qwiklabs-gcp-03-abd892493310/selfie.png"
+            }
+          },
+          "features": [
+            {
+              "type": "FACE_DETECTION"
+            },
+            {
+                "type":"LANDMARK_DETECTION"
+            }
+        ]
+    }
+]
+}
+' > request.json
